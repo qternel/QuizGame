@@ -1,0 +1,5 @@
+{"Name":"qternel","Points":12}
+{"Name":"michael","Points":11}
+{"Name":"misha","Points":5}
+{"Name":"qthasavage","Points":5}
+{"Name":"player1","Points":4}
